@@ -54,6 +54,7 @@ C:\Users\stu-1904896\OneDrive - South Essex College\Desktop\SceneManagement\Scen
 C:\Users\stu-1904896\OneDrive - South Essex College\Desktop\SceneManagement\SceneManagement\SceneManagement\obj\Debug\net8.0\SceneManagement.AssemblyInfoInputs.cache
 C:\Users\stu-1904896\OneDrive - South Essex College\Desktop\SceneManagement\SceneManagement\SceneManagement\obj\Debug\net8.0\SceneManagement.AssemblyInfo.cs
 C:\Users\stu-1904896\OneDrive - South Essex College\Desktop\SceneManagement\SceneManagement\SceneManagement\obj\Debug\net8.0\SceneManagement.csproj.CoreCompileInputs.cache
+C:\Users\stu-1904896\OneDrive - South Essex College\Desktop\SceneManagement\SceneManagement\SceneManagement\obj\Debug\net8.0\SceneManagement.sourcelink.json
 C:\Users\stu-1904896\OneDrive - South Essex College\Desktop\SceneManagement\SceneManagement\SceneManagement\obj\Debug\net8.0\SceneMan.D3497107.Up2Date
 C:\Users\stu-1904896\OneDrive - South Essex College\Desktop\SceneManagement\SceneManagement\SceneManagement\obj\Debug\net8.0\SceneManagement.dll
 C:\Users\stu-1904896\OneDrive - South Essex College\Desktop\SceneManagement\SceneManagement\SceneManagement\obj\Debug\net8.0\refint\SceneManagement.dll

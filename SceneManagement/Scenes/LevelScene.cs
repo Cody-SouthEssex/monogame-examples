@@ -28,6 +28,10 @@ namespace SceneManagement.Scenes
             {
                 SceneManager.SetCurrentScene(SceneEnum.MENU);
             }
+            if (KeyManager.IsKeyPressed(Keys.D))
+            {
+                SceneManager.SetCurrentScene(SceneEnum.MENU);
+            }
         }
         public void Draw(SpriteBatch spriteBatch)
         {

@@ -43,7 +43,7 @@ namespace SceneManagement
             _spriteBatch = new SpriteBatch(GraphicsDevice);
             //menuScene.Load();
             
-            SceneManager.SetCurrentScene(SceneEnum.AVOID_GAME);
+            SceneManager.SetCurrentScene(SceneEnum.MENU);
 
             // TODO: use this.Content to load your game content here
         }

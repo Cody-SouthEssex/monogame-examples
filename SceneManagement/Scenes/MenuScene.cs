@@ -31,6 +31,10 @@ namespace SceneManagement.Scenes
             {
                 SceneManager.SetCurrentScene(SceneEnum.LEVEL);
             }
+            if (KeyManager.IsKeyPressed(Keys.D))
+            {
+                SceneManager.SetCurrentScene(SceneEnum.LEVEL);
+            }
         }
         public void Draw(SpriteBatch spriteBatch) 
         {

@@ -12,8 +12,10 @@ namespace SceneManagement.Input
 {
     static internal class KeyManager
     {
-        static KeyboardState oldState;
+        static List<Keys> oldState = new List<Keys>();
+        static KeyboardState oldKeyboardState;
         static KeyboardState newState;
+        static bool doonce = true;
 
         static public bool IsKeyPressed(Keys key) 
         {
@@ -21,15 +23,18 @@ namespace SceneManagement.Input
 
             if (newState.IsKeyDown(key))
             {
-                
-                if (!oldState.IsKeyDown(key)) 
-                { 
-                    Debug.WriteLine("hello im being presseed"); 
-                    oldState = newState;  
-                    return true; 
+                if (!oldState.Contains(key))
+                {
+                    Debug.WriteLine("hello im being presseed");
+                    oldState = newState.GetPressedKeys().ToList();
+                    return true;
                 }
             }
-            oldState = newState;
+            else if (newState.GetPressedKeyCount() == 0)
+            {
+                oldState.Clear();
+
+            }
             return false;
         }
 
@@ -39,15 +44,15 @@ namespace SceneManagement.Input
 
             if (newState.IsKeyDown(key))
             {
-                if (oldState.IsKeyDown(key))
+                if (oldKeyboardState.IsKeyDown(key))
                 {
-                    oldState = newState;
+                    oldKeyboardState = newState;
                     Debug.WriteLine("Key Is Held Down");
                     return true;
                 }
             }
 
-            oldState = newState;
+            oldKeyboardState = newState;
             return false;
         }
 
@@ -55,14 +60,14 @@ namespace SceneManagement.Input
         {
             newState = Keyboard.GetState();
 
-            if (oldState.IsKeyDown(key) && !newState.IsKeyDown(key)) 
+            if (oldKeyboardState.IsKeyDown(key) && !newState.IsKeyDown(key)) 
             { 
                 Debug.WriteLine("Key Is released"); 
-                oldState = newState; 
+                oldKeyboardState = newState; 
                 return true; 
             }
 
-            oldState = newState;
+            oldKeyboardState = newState;
             return false;  
         }
 
