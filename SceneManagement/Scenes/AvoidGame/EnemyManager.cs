@@ -21,7 +21,7 @@ namespace SceneManagement.Scenes.AvoidGame
         //Queue is a reference type not a value type
         private readonly Queue<EnemyCharacter> basicEnemies = new Queue<EnemyCharacter>();
         private readonly Queue<EnemyCharacter> activeEnemies = new Queue<EnemyCharacter>();
-        private Timer enemySpawnTimer;
+        private MyTimer enemySpawnTimer;
       
         private ContentManager contentManager;
 
@@ -30,7 +30,7 @@ namespace SceneManagement.Scenes.AvoidGame
             contentManager = cm;
             enemyImgs.Add(EnemyTypeEnum.BASE, "AG_Enemy");
             FillEnemies();
-            enemySpawnTimer = new Timer(0.2f);
+            enemySpawnTimer = new MyTimer(0.2f);
 
 
         }

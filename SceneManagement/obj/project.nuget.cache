@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "Hk6uvUZSe/U=",
+  "dgSpecHash": "MAO/dhUvx0Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\stu-1904896\\OneDrive - South Essex College\\Desktop\\SceneManagement\\SceneManagement\\SceneManagement\\SceneManagement.csproj",
+  "projectFilePath": "C:\\Users\\cbfra\\OneDrive\\Documents\\MonoGameProjects\\monogame-examples\\SceneManagement\\SceneManagement.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\stu-1904896\\.nuget\\packages\\monogame.content.builder.task\\3.8.2.1105\\monogame.content.builder.task.3.8.2.1105.nupkg.sha512",
-    "C:\\Users\\stu-1904896\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.2.1105\\monogame.framework.desktopgl.3.8.2.1105.nupkg.sha512",
-    "C:\\Users\\stu-1904896\\.nuget\\packages\\monogame.library.sdl\\2.26.5.5\\monogame.library.sdl.2.26.5.5.nupkg.sha512",
-    "C:\\Users\\stu-1904896\\.nuget\\packages\\nvorbis\\0.10.4\\nvorbis.0.10.4.nupkg.sha512",
-    "C:\\Users\\stu-1904896\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Users\\stu-1904896\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+    "C:\\Users\\cbfra\\.nuget\\packages\\monogame.content.builder.task\\3.8.2.1105\\monogame.content.builder.task.3.8.2.1105.nupkg.sha512",
+    "C:\\Users\\cbfra\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.2.1105\\monogame.framework.desktopgl.3.8.2.1105.nupkg.sha512",
+    "C:\\Users\\cbfra\\.nuget\\packages\\monogame.library.sdl\\2.26.5.5\\monogame.library.sdl.2.26.5.5.nupkg.sha512",
+    "C:\\Users\\cbfra\\.nuget\\packages\\nvorbis\\0.10.4\\nvorbis.0.10.4.nupkg.sha512",
+    "C:\\Users\\cbfra\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\cbfra\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

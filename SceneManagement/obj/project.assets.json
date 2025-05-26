@@ -238,23 +238,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\stu-1904896\\.nuget\\packages\\": {},
+    "C:\\Users\\cbfra\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stu-1904896\\OneDrive - South Essex College\\Desktop\\SceneManagement\\SceneManagement\\SceneManagement\\SceneManagement.csproj",
+      "projectUniqueName": "C:\\Users\\cbfra\\OneDrive\\Documents\\MonoGameProjects\\monogame-examples\\SceneManagement\\SceneManagement.csproj",
       "projectName": "SceneManagement",
-      "projectPath": "C:\\Users\\stu-1904896\\OneDrive - South Essex College\\Desktop\\SceneManagement\\SceneManagement\\SceneManagement\\SceneManagement.csproj",
-      "packagesPath": "C:\\Users\\stu-1904896\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stu-1904896\\OneDrive - South Essex College\\Desktop\\SceneManagement\\SceneManagement\\SceneManagement\\obj\\",
+      "projectPath": "C:\\Users\\cbfra\\OneDrive\\Documents\\MonoGameProjects\\monogame-examples\\SceneManagement\\SceneManagement.csproj",
+      "packagesPath": "C:\\Users\\cbfra\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\cbfra\\OneDrive\\Documents\\MonoGameProjects\\monogame-examples\\SceneManagement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\stu-1904896\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\cbfra\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -281,7 +281,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -312,7 +312,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

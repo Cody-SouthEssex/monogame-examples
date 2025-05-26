@@ -4,6 +4,7 @@ using Microsoft.Xna.Framework.Input;
 using SceneManagement.Scenes;
 using SceneManagement.Scenes.AvoidGame;
 using SceneManagement.Utils;
+using System;
 
 namespace SceneManagement
 {
@@ -20,16 +21,11 @@ namespace SceneManagement
             _graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
             IsMouseVisible = true;
-
-            MyUtils.BackBufferSize.X = _graphics.PreferredBackBufferWidth;
-            MyUtils.BackBufferSize.Y = _graphics.PreferredBackBufferHeight;
-
-            //menuScene = new SceneMenu(Content);
-            //sceneManager = new SceneManager();
         }
 
         protected override void Initialize()
         {
+            MyUtils.Init( _graphics);
             // TODO: Add your initialization logic here
             SceneManager.AddScene(SceneEnum.MENU, new MenuScene(Content));
             SceneManager.AddScene(SceneEnum.LEVEL, new LevelScene(Content));
@@ -43,17 +39,19 @@ namespace SceneManagement
             _spriteBatch = new SpriteBatch(GraphicsDevice);
             //menuScene.Load();
             
-            SceneManager.SetCurrentScene(SceneEnum.MENU);
+            SceneManager.SetCurrentScene(SceneEnum.AVOID_GAME);
 
             // TODO: use this.Content to load your game content here
         }
 
         protected override void Update(GameTime gameTime)
         {
+            MyUtils.Update(gameTime, _graphics);
+            
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape))
                 Exit();
 
-            MyUtils.Update(gameTime);
+            
 
             // TODO: Add your update logic here
             SceneManager.GetCurrentScene().Update(gameTime);

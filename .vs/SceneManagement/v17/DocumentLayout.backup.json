@@ -1,34 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\stu-1904896\\OneDrive - South Essex College\\Desktop\\SceneManagement\\SceneManagement\\",
+  "WorkspaceRootPath": "C:\\Users\\cbfra\\OneDrive\\Documents\\MonoGameProjects\\monogame-examples\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|c:\\users\\stu-1904896\\onedrive - south essex college\\desktop\\scenemanagement\\scenemanagement\\scenemanagement\\input\\keymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|solutionrelative:scenemanagement\\input\\keymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|c:\\users\\cbfra\\onedrive\\documents\\monogameprojects\\monogame-examples\\scenemanagement\\utils\\mysprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|solutionrelative:scenemanagement\\utils\\mysprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|c:\\users\\stu-1904896\\onedrive - south essex college\\desktop\\scenemanagement\\scenemanagement\\scenemanagement\\scenes\\levelscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|solutionrelative:scenemanagement\\scenes\\levelscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|c:\\users\\stu-1904896\\onedrive - south essex college\\desktop\\scenemanagement\\scenemanagement\\scenemanagement\\scenes\\avoidgame\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|solutionrelative:scenemanagement\\scenes\\avoidgame\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|c:\\users\\stu-1904896\\onedrive - south essex college\\desktop\\scenemanagement\\scenemanagement\\scenemanagement\\scenes\\avoidgame\\gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|c:\\users\\cbfra\\onedrive\\documents\\monogameprojects\\monogame-examples\\scenemanagement\\scenes\\avoidgame\\gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|solutionrelative:scenemanagement\\scenes\\avoidgame\\gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|c:\\users\\stu-1904896\\onedrive - south essex college\\desktop\\scenemanagement\\scenemanagement\\scenemanagement\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|c:\\users\\cbfra\\onedrive\\documents\\monogameprojects\\monogame-examples\\scenemanagement\\scenes\\avoidgame\\enemycharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|solutionrelative:scenemanagement\\scenes\\avoidgame\\enemycharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|c:\\users\\cbfra\\onedrive\\documents\\monogameprojects\\monogame-examples\\scenemanagement\\scenes\\shootgame\\shootgamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|solutionrelative:scenemanagement\\scenes\\shootgame\\shootgamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|c:\\users\\cbfra\\onedrive\\documents\\monogameprojects\\monogame-examples\\scenemanagement\\scenes\\avoidgame\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|solutionrelative:scenemanagement\\scenes\\avoidgame\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|c:\\users\\cbfra\\onedrive\\documents\\monogameprojects\\monogame-examples\\scenemanagement\\scenes\\avoidgame\\avoidgamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|solutionrelative:scenemanagement\\scenes\\avoidgame\\avoidgamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|c:\\users\\cbfra\\onedrive\\documents\\monogameprojects\\monogame-examples\\scenemanagement\\utils\\mytimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|solutionrelative:scenemanagement\\utils\\mytimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|c:\\users\\cbfra\\onedrive\\documents\\monogameprojects\\monogame-examples\\scenemanagement\\utils\\myutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|solutionrelative:scenemanagement\\utils\\myutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|c:\\users\\cbfra\\onedrive\\documents\\monogameprojects\\monogame-examples\\scenemanagement\\scenes\\levelscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|solutionrelative:scenemanagement\\scenes\\levelscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|c:\\users\\cbfra\\onedrive\\documents\\monogameprojects\\monogame-examples\\scenemanagement\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|solutionrelative:scenemanagement\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|c:\\users\\stu-1904896\\onedrive - south essex college\\desktop\\scenemanagement\\scenemanagement\\scenemanagement\\scenes\\menuscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|solutionrelative:scenemanagement\\scenes\\menuscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|c:\\users\\cbfra\\onedrive\\documents\\monogameprojects\\monogame-examples\\scenemanagement\\input\\keymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|solutionrelative:scenemanagement\\input\\keymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|c:\\users\\stu-1904896\\onedrive - south essex college\\desktop\\scenemanagement\\scenemanagement\\scenemanagement\\scenes\\avoidgame\\enemycharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|solutionrelative:scenemanagement\\scenes\\avoidgame\\enemycharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|c:\\users\\cbfra\\onedrive\\documents\\monogameprojects\\monogame-examples\\scenemanagement\\scenes\\menuscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FFF9570-A094-45E8-8FBA-B21E987FEB34}|SceneManagement\\SceneManagement.csproj|solutionrelative:scenemanagement\\scenes\\menuscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,45 +58,119 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShootGameScene.cs",
+              "DocumentMoniker": "C:\\Users\\cbfra\\OneDrive\\Documents\\MonoGameProjects\\monogame-examples\\SceneManagement\\Scenes\\ShootGame\\ShootGameScene.cs",
+              "RelativeDocumentMoniker": "SceneManagement\\Scenes\\ShootGame\\ShootGameScene.cs",
+              "ToolTip": "C:\\Users\\cbfra\\OneDrive\\Documents\\MonoGameProjects\\monogame-examples\\SceneManagement\\Scenes\\ShootGame\\ShootGameScene.cs",
+              "RelativeToolTip": "SceneManagement\\Scenes\\ShootGame\\ShootGameScene.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T18:23:47.987Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Game1.cs",
-              "DocumentMoniker": "C:\\Users\\stu-1904896\\OneDrive - South Essex College\\Desktop\\SceneManagement\\SceneManagement\\SceneManagement\\Game1.cs",
-              "RelativeDocumentMoniker": "SceneManagement\\Game1.cs",
-              "ToolTip": "C:\\Users\\stu-1904896\\OneDrive - South Essex College\\Desktop\\SceneManagement\\SceneManagement\\SceneManagement\\Game1.cs",
-              "RelativeToolTip": "SceneManagement\\Game1.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwC0AAAA3AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "MySprite.cs",
+              "DocumentMoniker": "C:\\Users\\cbfra\\OneDrive\\Documents\\MonoGameProjects\\monogame-examples\\SceneManagement\\Utils\\MySprite.cs",
+              "RelativeDocumentMoniker": "SceneManagement\\Utils\\MySprite.cs",
+              "ToolTip": "C:\\Users\\cbfra\\OneDrive\\Documents\\MonoGameProjects\\monogame-examples\\SceneManagement\\Utils\\MySprite.cs",
+              "RelativeToolTip": "SceneManagement\\Utils\\MySprite.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T10:57:40.52Z",
+              "WhenOpened": "2025-05-26T17:49:55.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyTimer.cs",
+              "DocumentMoniker": "C:\\Users\\cbfra\\OneDrive\\Documents\\MonoGameProjects\\monogame-examples\\SceneManagement\\Utils\\MyTimer.cs",
+              "RelativeDocumentMoniker": "SceneManagement\\Utils\\MyTimer.cs",
+              "ToolTip": "C:\\Users\\cbfra\\OneDrive\\Documents\\MonoGameProjects\\monogame-examples\\SceneManagement\\Utils\\MyTimer.cs",
+              "RelativeToolTip": "SceneManagement\\Utils\\MyTimer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T15:27:38.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MenuScene.cs",
-              "DocumentMoniker": "C:\\Users\\stu-1904896\\OneDrive - South Essex College\\Desktop\\SceneManagement\\SceneManagement\\SceneManagement\\Scenes\\MenuScene.cs",
-              "RelativeDocumentMoniker": "SceneManagement\\Scenes\\MenuScene.cs",
-              "ToolTip": "C:\\Users\\stu-1904896\\OneDrive - South Essex College\\Desktop\\SceneManagement\\SceneManagement\\SceneManagement\\Scenes\\MenuScene.cs",
-              "RelativeToolTip": "SceneManagement\\Scenes\\MenuScene.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAtAAAAAAAAAA==",
+              "Title": "AvoidGameScene.cs",
+              "DocumentMoniker": "C:\\Users\\cbfra\\OneDrive\\Documents\\MonoGameProjects\\monogame-examples\\SceneManagement\\Scenes\\AvoidGame\\AvoidGameScene.cs",
+              "RelativeDocumentMoniker": "SceneManagement\\Scenes\\AvoidGame\\AvoidGameScene.cs",
+              "ToolTip": "C:\\Users\\cbfra\\OneDrive\\Documents\\MonoGameProjects\\monogame-examples\\SceneManagement\\Scenes\\AvoidGame\\AvoidGameScene.cs",
+              "RelativeToolTip": "SceneManagement\\Scenes\\AvoidGame\\AvoidGameScene.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T10:57:22.605Z",
+              "WhenOpened": "2025-05-26T15:23:48.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KeyManager.cs",
+              "DocumentMoniker": "C:\\Users\\cbfra\\OneDrive\\Documents\\MonoGameProjects\\monogame-examples\\SceneManagement\\Input\\KeyManager.cs",
+              "RelativeDocumentMoniker": "SceneManagement\\Input\\KeyManager.cs",
+              "ToolTip": "C:\\Users\\cbfra\\OneDrive\\Documents\\MonoGameProjects\\monogame-examples\\SceneManagement\\Input\\KeyManager.cs",
+              "RelativeToolTip": "SceneManagement\\Input\\KeyManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:55:39.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyManager.cs",
+              "DocumentMoniker": "C:\\Users\\cbfra\\OneDrive\\Documents\\MonoGameProjects\\monogame-examples\\SceneManagement\\Scenes\\AvoidGame\\EnemyManager.cs",
+              "RelativeDocumentMoniker": "SceneManagement\\Scenes\\AvoidGame\\EnemyManager.cs",
+              "ToolTip": "C:\\Users\\cbfra\\OneDrive\\Documents\\MonoGameProjects\\monogame-examples\\SceneManagement\\Scenes\\AvoidGame\\EnemyManager.cs",
+              "RelativeToolTip": "SceneManagement\\Scenes\\AvoidGame\\EnemyManager.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAvwD4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:01:07.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\cbfra\\OneDrive\\Documents\\MonoGameProjects\\monogame-examples\\SceneManagement\\Scenes\\AvoidGame\\EnemyCharacter.cs",
+              "RelativeDocumentMoniker": "SceneManagement\\Scenes\\AvoidGame\\EnemyCharacter.cs",
+              "ToolTip": "C:\\Users\\cbfra\\OneDrive\\Documents\\MonoGameProjects\\monogame-examples\\SceneManagement\\Scenes\\AvoidGame\\EnemyCharacter.cs",
+              "RelativeToolTip": "SceneManagement\\Scenes\\AvoidGame\\EnemyCharacter.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T13:01:02.833Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "GameCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\cbfra\\OneDrive\\Documents\\MonoGameProjects\\monogame-examples\\SceneManagement\\Scenes\\AvoidGame\\GameCharacter.cs",
+              "RelativeDocumentMoniker": "SceneManagement\\Scenes\\AvoidGame\\GameCharacter.cs",
+              "ToolTip": "C:\\Users\\cbfra\\OneDrive\\Documents\\MonoGameProjects\\monogame-examples\\SceneManagement\\Scenes\\AvoidGame\\GameCharacter.cs",
+              "RelativeToolTip": "SceneManagement\\Scenes\\AvoidGame\\GameCharacter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:48:59.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "LevelScene.cs",
-              "DocumentMoniker": "C:\\Users\\stu-1904896\\OneDrive - South Essex College\\Desktop\\SceneManagement\\SceneManagement\\SceneManagement\\Scenes\\LevelScene.cs",
+              "DocumentMoniker": "C:\\Users\\cbfra\\OneDrive\\Documents\\MonoGameProjects\\monogame-examples\\SceneManagement\\Scenes\\LevelScene.cs",
               "RelativeDocumentMoniker": "SceneManagement\\Scenes\\LevelScene.cs",
-              "ToolTip": "C:\\Users\\stu-1904896\\OneDrive - South Essex College\\Desktop\\SceneManagement\\SceneManagement\\SceneManagement\\Scenes\\LevelScene.cs",
+              "ToolTip": "C:\\Users\\cbfra\\OneDrive\\Documents\\MonoGameProjects\\monogame-examples\\SceneManagement\\Scenes\\LevelScene.cs",
               "RelativeToolTip": "SceneManagement\\Scenes\\LevelScene.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -85,55 +179,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "KeyManager.cs",
-              "DocumentMoniker": "C:\\Users\\stu-1904896\\OneDrive - South Essex College\\Desktop\\SceneManagement\\SceneManagement\\SceneManagement\\Input\\KeyManager.cs",
-              "RelativeDocumentMoniker": "SceneManagement\\Input\\KeyManager.cs",
-              "ToolTip": "C:\\Users\\stu-1904896\\OneDrive - South Essex College\\Desktop\\SceneManagement\\SceneManagement\\SceneManagement\\Input\\KeyManager.cs*",
-              "RelativeToolTip": "SceneManagement\\Input\\KeyManager.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\cbfra\\OneDrive\\Documents\\MonoGameProjects\\monogame-examples\\SceneManagement\\Game1.cs",
+              "RelativeDocumentMoniker": "SceneManagement\\Game1.cs",
+              "ToolTip": "C:\\Users\\cbfra\\OneDrive\\Documents\\MonoGameProjects\\monogame-examples\\SceneManagement\\Game1.cs",
+              "RelativeToolTip": "SceneManagement\\Game1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowBsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T10:55:39.842Z",
+              "WhenOpened": "2025-05-15T10:57:40.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyUtils.cs",
+              "DocumentMoniker": "C:\\Users\\cbfra\\OneDrive\\Documents\\MonoGameProjects\\monogame-examples\\SceneManagement\\Utils\\MyUtils.cs",
+              "RelativeDocumentMoniker": "SceneManagement\\Utils\\MyUtils.cs",
+              "ToolTip": "C:\\Users\\cbfra\\OneDrive\\Documents\\MonoGameProjects\\monogame-examples\\SceneManagement\\Utils\\MyUtils.cs",
+              "RelativeToolTip": "SceneManagement\\Utils\\MyUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T15:16:19.958Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GameCharacter.cs",
-              "DocumentMoniker": "C:\\Users\\stu-1904896\\OneDrive - South Essex College\\Desktop\\SceneManagement\\SceneManagement\\SceneManagement\\Scenes\\AvoidGame\\GameCharacter.cs",
-              "RelativeDocumentMoniker": "SceneManagement\\Scenes\\AvoidGame\\GameCharacter.cs",
-              "ToolTip": "C:\\Users\\stu-1904896\\OneDrive - South Essex College\\Desktop\\SceneManagement\\SceneManagement\\SceneManagement\\Scenes\\AvoidGame\\GameCharacter.cs",
-              "RelativeToolTip": "SceneManagement\\Scenes\\AvoidGame\\GameCharacter.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "MenuScene.cs",
+              "DocumentMoniker": "C:\\Users\\cbfra\\OneDrive\\Documents\\MonoGameProjects\\monogame-examples\\SceneManagement\\Scenes\\MenuScene.cs",
+              "RelativeDocumentMoniker": "SceneManagement\\Scenes\\MenuScene.cs",
+              "ToolTip": "C:\\Users\\cbfra\\OneDrive\\Documents\\MonoGameProjects\\monogame-examples\\SceneManagement\\Scenes\\MenuScene.cs",
+              "RelativeToolTip": "SceneManagement\\Scenes\\MenuScene.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T10:48:59.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EnemyManager.cs",
-              "DocumentMoniker": "C:\\Users\\stu-1904896\\OneDrive - South Essex College\\Desktop\\SceneManagement\\SceneManagement\\SceneManagement\\Scenes\\AvoidGame\\EnemyManager.cs",
-              "RelativeDocumentMoniker": "SceneManagement\\Scenes\\AvoidGame\\EnemyManager.cs",
-              "ToolTip": "C:\\Users\\stu-1904896\\OneDrive - South Essex College\\Desktop\\SceneManagement\\SceneManagement\\SceneManagement\\Scenes\\AvoidGame\\EnemyManager.cs",
-              "RelativeToolTip": "SceneManagement\\Scenes\\AvoidGame\\EnemyManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T13:01:07.411Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EnemyCharacter.cs",
-              "DocumentMoniker": "C:\\Users\\stu-1904896\\OneDrive - South Essex College\\Desktop\\SceneManagement\\SceneManagement\\SceneManagement\\Scenes\\AvoidGame\\EnemyCharacter.cs",
-              "RelativeDocumentMoniker": "SceneManagement\\Scenes\\AvoidGame\\EnemyCharacter.cs",
-              "ToolTip": "C:\\Users\\stu-1904896\\OneDrive - South Essex College\\Desktop\\SceneManagement\\SceneManagement\\SceneManagement\\Scenes\\AvoidGame\\EnemyCharacter.cs",
-              "RelativeToolTip": "SceneManagement\\Scenes\\AvoidGame\\EnemyCharacter.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T13:01:02.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T10:57:22.605Z"
             }
           ]
         }

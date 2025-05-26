@@ -4,12 +4,12 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/stu-1904896/OneDrive - South Essex College/Desktop/SceneManagement/SceneManagement/SceneManagement/Content/1f3e05db83f249568a90bc00b870f7da34da0b2b.png</File>
-    <File>C:/Users/stu-1904896/OneDrive - South Essex College/Desktop/SceneManagement/SceneManagement/SceneManagement/Content/AG_Enemy.png</File>
-    <File>C:/Users/stu-1904896/OneDrive - South Essex College/Desktop/SceneManagement/SceneManagement/SceneManagement/Content/AG_EnemyErr.png</File>
-    <File>C:/Users/stu-1904896/OneDrive - South Essex College/Desktop/SceneManagement/SceneManagement/SceneManagement/Content/AG_Player.png</File>
-    <File>C:/Users/stu-1904896/OneDrive - South Essex College/Desktop/SceneManagement/SceneManagement/SceneManagement/Content/AG_PlayerDmg.png</File>
-    <File>C:/Users/stu-1904896/OneDrive - South Essex College/Desktop/SceneManagement/SceneManagement/SceneManagement/Content/ball.png</File>
+    <File>C:/Users/cbfra/OneDrive/Documents/MonoGameProjects/monogame-examples/SceneManagement/Content/1f3e05db83f249568a90bc00b870f7da34da0b2b.png</File>
+    <File>C:/Users/cbfra/OneDrive/Documents/MonoGameProjects/monogame-examples/SceneManagement/Content/AG_Enemy.png</File>
+    <File>C:/Users/cbfra/OneDrive/Documents/MonoGameProjects/monogame-examples/SceneManagement/Content/AG_EnemyErr.png</File>
+    <File>C:/Users/cbfra/OneDrive/Documents/MonoGameProjects/monogame-examples/SceneManagement/Content/AG_Player.png</File>
+    <File>C:/Users/cbfra/OneDrive/Documents/MonoGameProjects/monogame-examples/SceneManagement/Content/AG_PlayerDmg.png</File>
+    <File>C:/Users/cbfra/OneDrive/Documents/MonoGameProjects/monogame-examples/SceneManagement/Content/ball.png</File>
   </SourceFiles>
   <DestFiles>
     <File>mgimg.png</File>
